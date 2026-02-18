@@ -11,14 +11,20 @@ abstract: >
 authors:
   - family-names: Adeyemi
     given-names: Sam
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0002-5023-5222"
     affiliation: "Independent Researcher"
     email: samo.adeyemi@yahoo.co.uk
     country: GB
 version: "1.0.0"
 date-released: "2026-02-18"
-url: "https://github.com/SamAdeyemi/boolean-criticality-kappa073"
-repository-code: "https://github.com/SamAdeyemi/boolean-criticality-kappa073"
+url: "https://github.com/SamAde1203/boolean-criticality-kappa073"
+repository-code: "https://github.com/SamAde1203/boolean-criticality-kappa073"
+doi: "10.5281/zenodo.18681171"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18681171"
+    description: "Zenodo archive DOI"
+
 license: MIT
 keywords:
   - Boolean networks

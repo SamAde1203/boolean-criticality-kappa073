@@ -1,6 +1,6 @@
 # Phase Transitions in Biological Organisation: The κ=0.73 Threshold
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI]https://zenodo.org/badge/1160807689.svg https://doi.org/10.5281/zenodo.18681171
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![R 4.3](https://img.shields.io/badge/R-4.3-blue.svg)](https://www.r-project.org/)
@@ -50,7 +50,7 @@ text
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SamAdeyemi/boolean-criticality-kappa073.git
+git clone https://github.com/SamAde1203/boolean-criticality-kappa073.git
 cd boolean-criticality-kappa073
 2. Install Python Dependencies
 bash
@@ -113,13 +113,13 @@ text
                The κ=0.73 Threshold},
   journal   = {[Journal Name]},
   year      = {2026},
-  doi       = {10.5281/zenodo.XXXXXX}
+  doi       = {10.5281/zenodo.18681171}
 }
 Author
 Sam Adeyemi
 Independent Researcher, United Kingdom
-samo.adeyemi@yahoo.co.uk
-ORCID: [your ORCID here]
+samoadeyemi@yahoo.co.uk
+ORCID: 0009-0002-5023-5222
 
 License
 This project is licensed under the MIT License — see LICENSE for details.
