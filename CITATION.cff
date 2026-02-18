@@ -1,0 +1,56 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Phase Transitions in Biological Organisation: The κ=0.73 Threshold"
+abstract: >
+  Code and data for analytical derivation and computational validation
+  of the κ=0.73 critical threshold for effective connectivity in biological
+  Boolean networks. Includes Python simulation scripts, R analysis and
+  visualisation code, empirical network data, and supplementary materials.
+authors:
+  - family-names: Adeyemi
+    given-names: Sam
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+    email: samo.adeyemi@yahoo.co.uk
+    country: GB
+version: "1.0.0"
+date-released: "2026-02-18"
+url: "https://github.com/SamAdeyemi/boolean-criticality-kappa073"
+repository-code: "https://github.com/SamAdeyemi/boolean-criticality-kappa073"
+license: MIT
+keywords:
+  - Boolean networks
+  - critical transitions
+  - effective connectivity
+  - phase transitions
+  - biological criticality
+  - self-organised criticality
+  - gene regulatory networks
+  - systems biology
+references:
+  - type: article
+    authors:
+      - family-names: Derrida
+        given-names: B.
+      - family-names: Pomeau
+        given-names: Y.
+    title: "Random networks of automata: A simple annealed approximation"
+    journal: "Europhysics Letters"
+    volume: 1
+    issue: 2
+    pages: "45-49"
+    year: 1986
+    doi: "10.1209/0295-5075/1/2/001"
+  - type: article
+    authors:
+      - family-names: Aldana
+        given-names: M.
+    title: "Boolean dynamics of networks with scale-free topology"
+    journal: "Physica D: Nonlinear Phenomena"
+    volume: 185
+    issue: 1
+    pages: "45-66"
+    year: 2003
+    doi: "10.1016/S0167-2789(03)00174-X"

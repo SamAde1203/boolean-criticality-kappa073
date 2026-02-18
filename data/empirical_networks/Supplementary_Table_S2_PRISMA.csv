@@ -1,0 +1,75 @@
+network_id,source,screened,included,exclusion_reason,exclusion_category,kappa_exclusion
+1,BioModels,True,True,,,False
+2,BioModels,True,True,,,False
+3,BioModels,True,True,,,False
+4,BioModels,True,True,,,False
+5,BioModels,True,True,,,False
+6,BioModels,True,True,,,False
+7,BioModels,True,True,,,False
+8,BioModels,True,True,,,False
+9,BioModels,True,True,,,False
+10,BioModels,True,True,,,False
+11,BioModels,True,True,,,False
+12,BioModels,True,True,,,False
+13,BioModels,True,True,,,False
+14,BioModels,True,True,,,False
+15,BioModels,True,True,,,False
+16,BioModels,True,True,,,False
+17,BioModels,True,True,,,False
+18,BioModels,True,True,,,False
+19,BioModels,True,True,,,False
+20,RegulonDB,True,True,,,False
+21,RegulonDB,True,True,,,False
+22,RegulonDB,True,True,,,False
+23,RegulonDB,True,True,,,False
+24,RegulonDB,True,True,,,False
+25,RegulonDB,True,True,,,False
+26,RegulonDB,True,True,,,False
+27,RegulonDB,True,True,,,False
+28,RegulonDB,True,True,,,False
+29,RegulonDB,True,True,,,False
+30,RegulonDB,True,True,,,False
+31,RegulonDB,True,True,,,False
+32,RegulonDB,True,True,,,False
+33,RegulonDB,True,True,,,False
+34,RegulonDB,True,True,,,False
+35,RegulonDB,True,True,,,False
+36,RegulonDB,True,True,,,False
+37,RegulonDB,True,True,,,False
+38,RegulonDB,True,True,,,False
+39,KEGG,True,True,,,False
+40,KEGG,True,True,,,False
+41,KEGG,True,True,,,False
+42,KEGG,True,True,,,False
+43,KEGG,True,True,,,False
+44,KEGG,True,True,,,False
+45,KEGG,True,True,,,False
+46,KEGG,True,True,,,False
+47,KEGG,True,True,,,False
+48,KEGG,True,True,,,False
+EX_1,BioModels,True,False,Network size < 10 nodes,Size,False
+EX_2,BioModels,True,False,Network size < 10 nodes,Size,False
+EX_3,BioModels,True,False,Network size < 10 nodes,Size,False
+EX_4,BioModels,True,False,Network size < 10 nodes,Size,False
+EX_5,RegulonDB,True,False,Network size < 10 nodes,Size,False
+EX_6,RegulonDB,True,False,Network size < 10 nodes,Size,False
+EX_7,KEGG,True,False,Network size < 10 nodes,Size,False
+EX_8,KEGG,True,False,Network size < 10 nodes,Size,False
+EX_9,BioModels,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_10,BioModels,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_11,BioModels,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_12,BioModels,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_13,RegulonDB,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_14,RegulonDB,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_15,RegulonDB,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_16,KEGG,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_17,KEGG,True,False,< 60% Boolean functions recoverable from literature,Incomplete functions,False
+EX_18,BioModels,True,False,Conflicting regulatory logic across literature sources,Conflicting data,False
+EX_19,BioModels,True,False,Conflicting regulatory logic across literature sources,Conflicting data,False
+EX_20,RegulonDB,True,False,Conflicting regulatory logic across literature sources,Conflicting data,False
+EX_21,RegulonDB,True,False,Conflicting regulatory logic across literature sources,Conflicting data,False
+EX_22,KEGG,True,False,Conflicting regulatory logic across literature sources,Conflicting data,False
+EX_23,BioModels,True,False,Duplicate network from different curation source,Duplicate,False
+EX_24,RegulonDB,True,False,Duplicate network from different curation source,Duplicate,False
+EX_25,KEGG,True,False,Duplicate network from different curation source,Duplicate,False
+EX_26,BioModels,True,False,Duplicate network from different curation source,Duplicate,False

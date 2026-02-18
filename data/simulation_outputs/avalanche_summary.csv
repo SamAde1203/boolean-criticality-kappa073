@@ -1,0 +1,4 @@
+regime,kappa,n_avalanches,mean_size,median_size,mean_duration,alpha_size_estimate,tau_duration_estimate,KS_pvalue_size,KS_pvalue_duration,power_law_accepted
+critical,0.73,500,70.93,4.0,8.04,1.48,2.03,0.23,0.18,True
+subcritical,0.5,500,5.76,4.0,3.43,exp,exp,0.0,0.0,False
+supercritical,1.0,500,483.25,494.0,250.73,uniform,uniform,0.0,0.0,False
