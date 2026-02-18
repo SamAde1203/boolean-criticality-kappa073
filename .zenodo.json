@@ -1,14 +1,13 @@
 {
   "title": "Phase Transitions in Biological Organisation: The κ=0.73 Threshold — Code and Data",
-  "description": "Complete code, data, and supplementary materials for the manuscript 'Phase Transitions in Biological Organisation: The κ=0.73 Threshold'. Includes: (1) Analytical derivation of β=0.36 from degree distribution moments; (2) Python scripts for Boolean network simulation (N=10,000 networks); (3) R scripts for all manuscript figures and statistical analyses; (4) Empirical network dataset (n=48 biological Boolean networks); (5) Supplementary Notes S1-S3 and Tables S1-S2. Key finding: κ_c=0.73±0.02 as universal critical threshold for effective connectivity in biological networks, derived from first principles as β×K_c^hom where β=⟨k⟩²/⟨k²⟩≈0.36 for power-law networks with γ=2.3.",
+  "description": "Complete code, data, and supplementary materials for the manuscript 'Phase Transitions in Biological Organisation: The kappa=0.73 Threshold'. Includes: (1) Analytical derivation of beta=0.36 from degree distribution moments; (2) Python scripts for Boolean network simulation; (3) R scripts for all manuscript figures; (4) Empirical network dataset (48 biological Boolean networks); (5) Supplementary Notes and Tables. Key finding: kappa_c=0.73 as universal critical threshold for effective connectivity in biological networks.",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
   "creators": [
     {
       "name": "Adeyemi, Sam",
-      "affiliation": "Independent Researcher",
-      "orcid": "0000-0000-0000-0000"
+      "affiliation": "Independent Researcher"
     }
   ],
   "keywords": [
@@ -17,28 +16,8 @@
     "effective connectivity",
     "phase transitions",
     "biological criticality",
-    "self-organised criticality",
     "gene regulatory networks",
-    "systems biology",
-    "κ=0.73",
-    "canalisation",
-    "network topology",
-    "Derrida parameter"
+    "systems biology"
   ],
-  "language": "eng",
-  "related_identifiers": [
-    {
-      "scheme": "url",
-      "identifier": "https://github.com/SamAdeyemi/boolean-criticality-kappa073",
-      "relation": "isSupplementTo"
-    }
-  ],
-  "communities": [
-    {"identifier": "zenodo"},
-    {"identifier": "bioinformatics"},
-    {"identifier": "systems-biology"}
-  ],
-  "version": "1.0.0",
-  "publication_date": "2026-02-18",
-  "notes": "This repository accompanies the manuscript submitted for peer review. All simulation parameters, statistical methods, and empirical data sources are fully documented. To God be all the glory."
+  "version": "1.0.2"
 }
